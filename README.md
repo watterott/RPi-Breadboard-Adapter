@@ -6,7 +6,3 @@ Breadboard Adapter for all Raspberry Pi HAT compatible models (40pin connector).
 
 ## Shop
 * [RPi-Breadboard-Adapter for Raspberry Pi (HAT compatible)](http://www.watterott.com/en/Raspberry-Pi-B-to-Breadboard-Adapter)
-
-
-## Hardware
-* [Schematics + Layout](https://github.com/watterott/RPi-Breadboard-Adapter/tree/master/hardware)
